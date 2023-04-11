@@ -10,7 +10,7 @@ An auto installer for [Cecilia5](https://github.com/belangeo/cecilia5) written f
 
 3. Cecilia5 will start for you.
 
-4. from the next time, double click install.bat and cecilia5 will start for you in seconds.
+4. From the next time, double click install.bat and cecilia5 will start for you in seconds.
 
 ## Cecilia5
 Check about Cecilia5 [here](https://github.com/belangeo/cecilia5).
