@@ -6,7 +6,7 @@ An auto installer for [Cecilia5](https://github.com/belangeo/cecilia5) written f
 ## Usage
 1.Download install.bat from [here](https://raw.githubusercontent.com/Kokohachi/cecilia5-auto-installer/master/install.bat), and save it to where you want to save Cecilia.
 
-2.Open Explorer and go to the folder you saved install.bat. Type `cmd` in the address bar. Commnad prompt or Windows Terminal will popup.
+2.Open Explorer and go to the folder you saved install.bat. Type `cmd` in the address bar. Command prompt or Windows Terminal will popup.
 
 3.Type install.bat and press enter.
 
