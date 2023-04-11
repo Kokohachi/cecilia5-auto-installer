@@ -26,7 +26,14 @@ if "%py_major%"=="3" (
     echo Error: Python version is %py_major%.%py_minor%.%py_patch%. Python version must be 3.7 or greater.
     exit /b 1
 )
-
+REM Chech if Cecilia5 is already installed
+if exist cecilia5 (
+    echo Cecilia5 is already installed. Starting Cecilia5 ...
+    call .venv\Scripts\activate
+    cd cecilia5
+    python Cecilia5.py 
+    exit /b 0
+)
 REM create virtualenv
 echo Stage2: Create virtualenv
 echo         Creating virtualenv in .venv ...
@@ -46,6 +53,6 @@ echo        Git repository cloned successfully.
 echo Stage5: Start Cecilia5
 echo        Starting Cecilia5 ...
 cd cecilia5
+echo       Cecilia5 started successfully. Press "Ctrl+C" to quit.
 python Cecilia5.py
-echo        Cecilia5 started successfully.
 exit /b 0
