@@ -1,5 +1,5 @@
 # cecilia5-auto-installer
-An auto installer for [Cecilia5](https://github.com/belangeo/cecilia5) written for Windows Terminal (.bat).
+An auto installer for [Cecilia5](https://github.com/belangeo/cecilia5) written for Windows.
 
 ## Repository still in alpha.
 
