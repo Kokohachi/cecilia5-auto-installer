@@ -12,7 +12,7 @@ An auto installer for [Cecilia5](https://github.com/belangeo/cecilia5) written f
 
 3. Cecilia5 will start for you. 
 
-(If you downloaded `install-nocmd.exe`, it will take abouut 30 seconds for Cecilia5 to popup, as it does not look like its working.)
+(`install-nocmd.exe`, it will take abouut 30 seconds for Cecilia5 to popup with no movement at all.)
 
 4. From the next time, double click install.exe and cecilia5 will start for you in seconds.
 
